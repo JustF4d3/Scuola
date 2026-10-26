@@ -14,3 +14,7 @@ h1{
 .testorosso { /* con il . si intendono le classi */
     color: red; /* colore del testo rosso */
 }
+
+.centrato {
+    text-align: center; /* allineamento del testo al centro */
+}
